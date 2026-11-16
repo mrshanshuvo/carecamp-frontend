@@ -14,7 +14,6 @@ dist-ssr
 .firebase
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -26,3 +25,4 @@ dist-ssr
 .vercel
 
 *.env
+config.bat
